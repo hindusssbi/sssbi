@@ -1,0 +1,24 @@
+.content-display h2
+{
+    position: relative;
+color: #444444;
+font-size: 35px;
+line-height: 1.3em;
+}
+.designation
+{
+    position: relative;
+color: #777777;
+font-size: 15px;
+line-height: 1.3em;
+margin-top: 12px;
+font-weight: 400;
+font-family: 'Nunito', sans-serif;
+}
+.text
+{
+    position: relative;
+color: #7f8497;
+font-size: 16px;
+line-height: 1.8em;
+}
